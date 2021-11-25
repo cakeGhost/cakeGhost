@@ -7,7 +7,9 @@
   
 <h2>Hey! 👋</h2>
   
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=cakeGhost.cakeGhost)](https://github.com/cakeGhost) 
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=cakeGhost.cakeGhost)](https://github.com/cakeGhost)
+<br>
+
 I'm cakeGhost 🍰
 - <i>Currently:</i> iOS Software Engineer 🦄
 
@@ -18,6 +20,7 @@ I'm cakeGhost 🍰
 ## 🛍 Languages
 <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
 
+<br>
 
 
 <h2>👀 Stats</h2>
