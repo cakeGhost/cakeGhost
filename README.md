@@ -1,5 +1,6 @@
 
 
+
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&height=300&section=footer&text=🍰&fontSize=70)
 
 
@@ -10,13 +11,22 @@
 I'm cakeGhost 🍰
 - <i>Currently:</i> iOS Software Engineer 🦄
 
+<img src="https://img.shields.io/badge/iOS-white?style=flat&logo=Apple&logoColor=000000"/>  <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/> <img src="https://img.shields.io/badge/Xcode-white?style=flat&logo=Xcode&logoColor=147EFB"/> 
+
 <br>
 
 ## 🛍 Languages
-swift
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsudingcream&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="Doputer's hit counter" />
+<img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138"/>
+
+
 
 <h2>👀 Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakeGhost&show_icons=true&theme=jolly)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cakeGhost&layout=compact)](https://github.com//github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cakeGhost&show_icons=true&theme=jolly)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cakeGhost&layout=compact&theme=tokyonight)  
+
+
+#
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
